@@ -1,0 +1,7 @@
+# Reference files not part of the published site
+/Screenshot*.png
+/logo.jpg
+
+# OS/editor
+.DS_Store
+Thumbs.db
